@@ -1,0 +1,36 @@
+html {
+  font-size: 20px; 
+  font-family: placeholder: Times New Roman
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+	}
+	header {
+background-color: white;
+color: white;
+text-align: center;
+padding: 5px;
+}
+.justify {
+  text-align: justify;
+width: 50%; 
+}
+.botn {
+    display: inline-block; 
+    background: green; 
+    color: white; 
+    padding: 1rem 2rem; 
+    text-decoration: none; 
+    border-radius: 3px;
+   }
+.btn {
+    display: inline-block; 
+    background: green; 
+    color: white; 
+    padding: 1rem 2rem; 
+    text-decoration: none; 
+    border-radius: 3px;
+
+   }
